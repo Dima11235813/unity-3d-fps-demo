@@ -1,5 +1,9 @@
 # Unity 3D First Person Shooter Demo Project
 
+## Initial Game Controls
+
+![alt text](ReadMe\gameControllerOptions.PNG)
+
 ## [Initial Git Repo Analysis](https://docs.google.com/spreadsheets/d/1bZIlYsd4mFIAx7bsjvD36OHH6j8z_oEU2zEC0CzOfMQ/edit#gid=881764674)
 
 Shows project broken out into section with code stats for section and total.
